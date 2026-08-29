@@ -1,0 +1,1 @@
+create table bill(id INT AUTO_INCREMENT PRIMARY KEY,customer_name VARCHAR(100) NOT NULL,meter_number INT NOT NULL,bill_month DATE NOT NULL,units_consumed INT NOT NULL);
